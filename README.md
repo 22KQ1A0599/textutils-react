@@ -2,7 +2,7 @@
 
 A text utility tool built with React.js to manipulate and analyze text easily.
 
-🔗 **Live Demo:** [Click here](https://yourusername.github.io/textutils-react)
+🔗 **Live Demo:** [Click here](https://github.com/22KQ1A0599/textutils-react.git)
 
 ## ⚙️ Features
 
